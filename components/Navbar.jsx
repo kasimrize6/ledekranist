@@ -16,7 +16,7 @@ export default function Navbar() {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between gap-4 py-3">
           <Link href="/" className="flex items-center gap-2 text-white font-extrabold">
-            <Image src="/img/logo.png" alt="Led Ekranist" width={34} height={34} className="rounded-xl" priority />
+            <Image src="/img/logo.png" alt="Led Ekranist" width={304} height={180} className="rounded-xl" priority />
              </Link>
 
           <nav className="hidden lg:flex items-center gap-4 text-sm">
